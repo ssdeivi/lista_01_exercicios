@@ -1,0 +1,14 @@
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\bin\Debug\net8.0\lista_04.exe
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\bin\Debug\net8.0\lista_04.deps.json
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\bin\Debug\net8.0\lista_04.runtimeconfig.json
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\bin\Debug\net8.0\lista_04.dll
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\bin\Debug\net8.0\lista_04.pdb
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.AssemblyInfoInputs.cache
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.AssemblyInfo.cs
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.csproj.CoreCompileInputs.cache
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.dll
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\refint\lista_04.dll
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.pdb
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\lista_04.genruntimeconfig.cache
+C:\Users\deivson.ssilva\source\repos\lista_01_exercicios\lista_01_exercicios\lista_04\obj\Debug\net8.0\ref\lista_04.dll
