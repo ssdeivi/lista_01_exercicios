@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_09", "lista_09\lista_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lista_10", "lista_10\lista_10.csproj", "{315B8B23-5616-475D-BF14-57117E6328D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desafio", "desafio\desafio.csproj", "{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "desafio", "desafio\desafio.csproj", "{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste_github", "teste_github\teste_github.csproj", "{9213BF6C-E767-4C94-978C-DAF4D969C864}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9213BF6C-E767-4C94-978C-DAF4D969C864}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9213BF6C-E767-4C94-978C-DAF4D969C864}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9213BF6C-E767-4C94-978C-DAF4D969C864}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9213BF6C-E767-4C94-978C-DAF4D969C864}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

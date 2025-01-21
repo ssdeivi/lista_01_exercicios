@@ -1,33 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}|desafio\\desafio.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}|desafio\\desafio.csproj|solutionrelative:desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9213BF6C-E767-4C94-978C-DAF4D969C864}|teste_github\\teste_github.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\teste_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9213BF6C-E767-4C94-978C-DAF4D969C864}|teste_github\\teste_github.csproj|solutionrelative:teste_github\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{315B8B23-5616-475D-BF14-57117E6328D9}|lista_10\\lista_10.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{315B8B23-5616-475D-BF14-57117E6328D9}|lista_10\\lista_10.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{315B8B23-5616-475D-BF14-57117E6328D9}|lista_10\\lista_10.csproj|solutionrelative:lista_10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9458A35B-BB04-48A7-8318-DE461DEB1901}|lista_09\\lista_09.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}|desafio\\desafio.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9D89456-BA43-427E-A8BD-B97D9CD3C78B}|desafio\\desafio.csproj|solutionrelative:desafio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9458A35B-BB04-48A7-8318-DE461DEB1901}|lista_09\\lista_09.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9458A35B-BB04-48A7-8318-DE461DEB1901}|lista_09\\lista_09.csproj|solutionrelative:lista_09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B820AB6B-A3BA-429E-8655-5DC8ACCFE432}|lista_06\\lista_06.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B820AB6B-A3BA-429E-8655-5DC8ACCFE432}|lista_06\\lista_06.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B820AB6B-A3BA-429E-8655-5DC8ACCFE432}|lista_06\\lista_06.csproj|solutionrelative:lista_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB863D62-DBF4-4BB2-A08D-6D496BB98422}|lista_05\\lista_05.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB863D62-DBF4-4BB2-A08D-6D496BB98422}|lista_05\\lista_05.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB863D62-DBF4-4BB2-A08D-6D496BB98422}|lista_05\\lista_05.csproj|solutionrelative:lista_05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B83881B-6FC0-4985-B509-EDEB6238D0CD}|lista_07\\lista_07.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5B83881B-6FC0-4985-B509-EDEB6238D0CD}|lista_07\\lista_07.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B83881B-6FC0-4985-B509-EDEB6238D0CD}|lista_07\\lista_07.csproj|solutionrelative:lista_07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CF890EA-CC8F-4F2A-9241-8D75AE8078CA}|lista_08\\lista_08.csproj|c:\\users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0CF890EA-CC8F-4F2A-9241-8D75AE8078CA}|lista_08\\lista_08.csproj|c:\\users\\deivson.ssilva\\documents\\lista_01_exercicios\\lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0CF890EA-CC8F-4F2A-9241-8D75AE8078CA}|lista_08\\lista_08.csproj|solutionrelative:lista_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +48,22 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\desafio\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\teste_github\\Program.cs",
+              "RelativeDocumentMoniker": "teste_github\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\teste_github\\Program.cs",
+              "RelativeToolTip": "teste_github\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T17:47:42.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\desafio\\Program.cs",
               "RelativeDocumentMoniker": "desafio\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\desafio\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\desafio\\Program.cs",
               "RelativeToolTip": "desafio\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +74,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_10\\Program.cs",
               "RelativeDocumentMoniker": "lista_10\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_10\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_10\\Program.cs",
               "RelativeToolTip": "lista_10\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +85,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_09\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_09\\Program.cs",
               "RelativeDocumentMoniker": "lista_09\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_09\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_09\\Program.cs",
               "RelativeToolTip": "lista_09\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,11 +97,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_08\\Program.cs",
               "RelativeDocumentMoniker": "lista_08\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_08\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_08\\Program.cs",
               "RelativeToolTip": "lista_08\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -92,11 +109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_07\\Program.cs",
               "RelativeDocumentMoniker": "lista_07\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_07\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_07\\Program.cs",
               "RelativeToolTip": "lista_07\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAIwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -104,11 +121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_06\\Program.cs",
               "RelativeDocumentMoniker": "lista_06\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_06\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_06\\Program.cs",
               "RelativeToolTip": "lista_06\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -116,11 +133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_05\\Program.cs",
               "RelativeDocumentMoniker": "lista_05\\Program.cs",
-              "ToolTip": "C:\\Users\\deivson.ssilva\\source\\repos\\lista_01_exercicios\\lista_01_exercicios\\lista_05\\Program.cs",
+              "ToolTip": "C:\\Users\\deivson.ssilva\\Documents\\lista_01_exercicios\\lista_05\\Program.cs",
               "RelativeToolTip": "lista_05\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
